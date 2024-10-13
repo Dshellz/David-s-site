@@ -1,4 +1,5 @@
 Ce site a été crée à l'aide d'une template HTML5up 
+Voici le lien d'accès au site : https://dshellz.github.io/David-s-site/
 
 Dimension by HTML5 UP
 html5up.net | @ajlkn
@@ -13,7 +14,6 @@ Hope you dig it :)
 Demo images* courtesy of Unsplash, a radtastic collection of CC0 (public domain) images
 you can use for pretty much whatever.
 
-(* = not included)
 
 AJ
 aj@lkn.io | @ajlkn
